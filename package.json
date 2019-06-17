@@ -1,7 +1,7 @@
 {
   "name": "function-programming",
   "version": "1.0.0",
-  "description": "函数式编程",
+  "description": "函数式编程 | TypeScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
