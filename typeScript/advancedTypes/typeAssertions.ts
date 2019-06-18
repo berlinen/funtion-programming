@@ -1,5 +1,5 @@
 // 由于可以使用union实现可空类型，因此需要使用类型保护来删除null。幸运的是，这与您在JavaScript中编写的代码相同：
-function f(sn: string | null): string {
+function f1 (sn: string | null): string {
   if (sn == null) {
       return "default";
   }
